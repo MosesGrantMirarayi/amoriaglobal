@@ -220,7 +220,7 @@ const AmoriaOriginalServices = [
   // Create infinite array by duplicating services
   const services = [...originalServices, ...originalServices];
 
-  // Auto-sliding functionality with infinite loop (only after mount)
+  // Auto-sliding functionality with infinite loop (only after mount)   
   useEffect(() => {
     if (!mounted || !isClient) return;
 
