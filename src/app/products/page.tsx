@@ -13,7 +13,7 @@ export default function ProductsPage() {
       description: 'Comming Soon',
       icon: '🎪',
       features: [''],
-      fullDescription: ' '
+      fullDescription: 'Comming Soon '
     }
   ];
 
