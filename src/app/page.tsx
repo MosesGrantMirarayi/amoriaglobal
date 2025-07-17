@@ -457,9 +457,9 @@ const AmoriaOriginalServices = [
                   <div className="product-content">
                     <h3 className="product-title">Amoria Connect</h3>
                     <p className="product-description">
-                      Connect people globally through virtual events including weddings, concerts, conferences, and celebrations for those unable to attend in person.
+                      Comming soon
                     </p>
-                    <button className="product-price-btn">Explore</button>
+                    <button className="product-price-btn" disabled>Explore</button>
                   </div>
                 </div>
               </div>
