@@ -12,8 +12,8 @@ export default function ProductsPage() {
       title: 'Amoria Connect',
       description: 'Comming Soon',
       icon: '🎪',
-      features: ['Virtual event hosting', 'Global connectivity', 'HD streaming quality', 'Interactive participation'],
-      fullDescription: 'Our comprehensive virtual event platform enables you to host all kinds of events online including weddings, concerts, conferences, and special celebrations, connecting people who are unable to attend them physically.'
+      features: [''],
+      fullDescription: ' '
     }
   ];
 
